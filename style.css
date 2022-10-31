@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(235, 245, 253);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+a {
+  padding: 30px;
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.header,
+.footer {
+  border-radius: 10px;
+  background-color: rgb(77, 61, 116);
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+}
+.card {
+  border: 1px black solid;
+  border-radius: 10px;
+}
+.card-title {
+  background-color: rgb(166, 171, 216);
+  border: 1px black solid;
+  border-radius: 10px;
+}
